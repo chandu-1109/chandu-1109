@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chandu
 - 👀 I’m interested in Data Analytics and Mern stack
-- 🌱 I’m currently Pursing BTech
 
 
 <!---
